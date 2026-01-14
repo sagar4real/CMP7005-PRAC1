@@ -14,14 +14,8 @@ An interactive Streamlit web application is developed to visualise air quality t
 
 ## Project Structure
 CMP7005-PRAC1/
-│
 ├── data/
-│ └── india_air_quality_fully_cleaned.csv
-│
 ├── models/
-│ ├── aqi_random_forest_model.pkl
-│ └── feature_names.pkl
-│
 ├── app.py
 ├── st20318513 CMP7005 PRAC1.ipynb
 └── README.md
