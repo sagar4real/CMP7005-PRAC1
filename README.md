@@ -12,14 +12,6 @@ An interactive Streamlit web application is developed to visualise air quality t
 - Build and evaluate machine learning models for AQI prediction  
 - Deploy an interactive application for AQI prediction and visual analytics  
 
-## Project Structure
-CMP7005-PRAC1/
-├── data/
-├── models/
-├── app.py
-├── st20318513 CMP7005 PRAC1.ipynb
-└── README.md
-
 
 ## Dataset
 **Source:** India Air Quality Dataset (CSV format provided via Moodle)
